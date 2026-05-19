@@ -12,7 +12,9 @@
 - 文献DOI：10.1021/acs.est.5c08036
 - 研究核心：揭示矿物—过氧化物酶互作对冻土有机碳累积、保护及稳定的调控机制，对比高低海拔冻土碳稳定途径差异。
 
-## 三、仓库整体目录结构
+### 三、仓库整体目录结构
+```text
+.
 ├── assignment_summary.md          # 研究报告
 ├── python_homework/
 │   └── requirements.txt           # Python 环境依赖文件
